@@ -5,15 +5,15 @@ Online Property Management System is a software which takes care of everything t
 It is very strong and easy to use that makes quick booking and account handling process. The real estate Property management system is a web-based software and you can access it from anywhere.
 Here are the database details for my property management system. The database will contain five main sections.
 ### Admin
- Admin section is the main section of database that can handle all the things in my project means he can see customers, available property, sold property, pending cases etc.
+Admin section is the main section of database that can handle all the things in my project means he can see customers, available property, sold property, pending cases etc.
 ### Client
- The client is the basic end user of our system most of the business is done through them. Clients can buy, sell, or rent their property. Other clients can make use of this property. We are a middle layer to take care of smooth business. 
+The client is the basic end user of our system most of the business is done through them. Clients can buy, sell, or rent their property. Other clients can make use of this property. We are a middle layer to take care of smooth business. 
 ### Property
-	Property table holds the complete information of property. Our main business is property buying, selling, and renting. Therefore, this table needs to be secure.
+Property table holds the complete information of property. Our main business is property buying, selling, and renting. Therefore, this table needs to be secure.
 ### Booking
-	Booking Entity would take care of all booking done by clients. Once any property is booked. A notification is sent to the owner as well as the buyer. This entity is also important, because in future if we need any proof for any property.
+Booking Entity would take care of all booking done by clients. Once any property is booked. A notification is sent to the owner as well as the buyer. This entity is also important, because in future if we need any proof for any property.
 ### Payment
-	Every business is for money making. Whenever it comes to money, we should make that our client’s money would be safe. In this, Entity every single transaction is recorded in the database.
+Every business is for money making. Whenever it comes to money, we should make that our client’s money would be safe. In this, Entity every single transaction is recorded in the database.
 Our company would use a safe and secure payment gateway to clear the payment.
 
 ### Description
